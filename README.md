@@ -10,7 +10,7 @@ To do that I like to go deep into code quality and tests.
 ## Working At CoolBlue
 
 - RRR Domain
-- 🍊 Oragen Team 
+- 🍊 Orange Team 
 - 📧 alexandre.borges@coolblue.nl 
 
 ## About:
