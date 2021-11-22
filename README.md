@@ -14,7 +14,7 @@ To do that I like to go deep into code quality and tests.
 - 📧 alexandre.borges@coolblue.nl 
 
 ## About:
-- **Language** : C#, GO, Delphi
+- **Language** : C#, GO
 - **Hobbies** : Coffee ☕, Vinil music, and art in general.
 - **Pronouns**: He / Him | Ele / Dele
 - **Carrer Focus** : Code Quality, Code Performance, Tests, and microservices.
